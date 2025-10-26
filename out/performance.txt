@@ -1,0 +1,4 @@
+load: 0.154s
+cluster: 0.881s
+pairs: 0.311s
+clusters=49 segments=666 (capped at 1000)
